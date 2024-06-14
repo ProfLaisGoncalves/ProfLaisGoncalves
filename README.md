@@ -1,6 +1,6 @@
 ## Oi  👋
 Tudo bem? 
-
+Meu nome é Lais, sou professora de Química e amo TODOS os meus alunos! 
 <!--
 **ProfLaisGoncalves/ProfLaisGoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
